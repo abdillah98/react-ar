@@ -16,10 +16,10 @@ code {
 }
 
 a-scene {
-  position: absolute;
+  /* position: absolute;
   top: 0;
   left: 0;
   width: 10%;
-  height: 10%;
+  height: 10%; */
   overflow: hidden;
 }
