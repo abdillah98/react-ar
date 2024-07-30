@@ -19,7 +19,7 @@ a-scene {
   position: absolute;
   top: 0;
   left: 0;
-  width: 10%;
-  height: 10%;
+  width: 50%;
+  height: 50%;
   overflow: hidden;
 }
